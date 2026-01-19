@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_TKnNYMoBEfC9_c3g-SpvOg" name="sasa">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_TPOnoMoBEfC9_c3g-SpvOg">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Activity" xmi:id="_XR2vkMoBEfC9_c3g-SpvOg" name="Activity2" node="_a3XdsMoBEfC9_c3g-SpvOg" group="_ZCJogMoBEfC9_c3g-SpvOg">
+    <group xmi:type="uml:ActivityPartition" xmi:id="_ZCJogMoBEfC9_c3g-SpvOg" name="ActivityPartition1"/>
+    <node xmi:type="uml:ReadStructuralFeatureAction" xmi:id="_a3XdsMoBEfC9_c3g-SpvOg" name="ReadStructuralFeatureAction2">
+      <object xmi:type="uml:InputPin" xmi:id="_a3c9QMoBEfC9_c3g-SpvOg" name="object">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_a3c9QcoBEfC9_c3g-SpvOg" value="1"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_a3c9QsoBEfC9_c3g-SpvOg" value="1"/>
+      </object>
+    </node>
+  </packagedElement>
+</uml:Model>
