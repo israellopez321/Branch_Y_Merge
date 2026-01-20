@@ -1,0 +1,16 @@
+package ejemplo;
+
+public class ClaseMiguel {
+
+    public static void main(String[] args) {
+
+        System.out.println("Israel");
+        int numero = 7;
+        System.out.println("Numero es: " + numero);
+        System.out.println("aaaaaaaaaaa");
+        System.out.println("Hola, soy Miguel!");
+        int numero = 42;
+        System.out.println("El número favorito de Miguel es: " + numero);
+    }
+
+}
